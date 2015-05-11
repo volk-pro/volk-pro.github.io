@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:BF298945-8DB8-4665-886B-8924D7343548</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-03-11T17:29:01+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:43DF37C0-4502-45A3-BF63-5132DF0C4E07</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">43DF37C0-4502-45A3-BF63-5132DF0C4E07</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2012-03-11T17:29:01.001+01:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:38618908-9EFD-4288-89A9-1B11BA5FC594</id>
+  <title>About me</title>
+  <title xmlns="urn:iweb:">About me</title>
+  <in-navbar xmlns="urn:iweb:">38618908-9EFD-4288-89A9-1B11BA5FC594</in-navbar>
+  <link rel="alternate" href="About_me.html"/>
+  <updated>2012-03-11T17:29:01.002+01:00</updated>
+  <content>About me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:36B6D38F-038F-488A-83F2-376D37B0F440</id>
+  <title>Arkady &amp; life</title>
+  <title xmlns="urn:iweb:">Arkady &amp; life</title>
+  <in-navbar xmlns="urn:iweb:">36B6D38F-038F-488A-83F2-376D37B0F440</in-navbar>
+  <link rel="alternate" href="Arkady_%26_life.html"/>
+  <updated>2012-03-11T17:29:01.003+01:00</updated>
+  <content>Arkady &amp; life</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D76F6716-BA49-4397-97BF-26D60AF1252E</id>
+  <title>My Albums</title>
+  <title xmlns="urn:iweb:">My Albums</title>
+  <in-navbar xmlns="urn:iweb:">D76F6716-BA49-4397-97BF-26D60AF1252E</in-navbar>
+  <link rel="alternate" href="My_Albums/My_Albums.html"/>
+  <updated>2012-03-11T17:29:01.004+01:00</updated>
+  <content>My Albums</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D5A25B71-B760-4A52-A5AE-9B140830DA1C</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">D5A25B71-B760-4A52-A5AE-9B140830DA1C</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2012-03-11T17:29:01.005+01:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>

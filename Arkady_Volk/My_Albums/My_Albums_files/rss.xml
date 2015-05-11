@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Albums</title>
+    <link>http://www.volk.pro/Arkady_Volk/My_Albums/My_Albums.html</link>
+    <description>My Albums</description>
+    <item>
+      <title>album .</title>
+      <link>http://www.volk.pro/Arkady_Volk/My_Albums/Pages/album_..html</link>
+      <guid isPermaLink="false">09bc05cb-ff20-4066-9726-fc5ca92cc9ad</guid>
+    </item>
+    <item>
+      <title>album ..</title>
+      <link>http://www.volk.pro/Arkady_Volk/My_Albums/Pages/album_...html</link>
+      <guid isPermaLink="false">f33f405d-3839-4f29-9fde-a86fb7826ea4</guid>
+    </item>
+    <item>
+      <title>album ...</title>
+      <link>http://www.volk.pro/Arkady_Volk/My_Albums/Pages/album_....html</link>
+      <guid isPermaLink="false">fb81fea1-47df-421d-b98b-882d8a1028fc</guid>
+    </item>
+  </channel>
+</rss>
